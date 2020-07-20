@@ -75,7 +75,9 @@ def monopoly_with_fourth_tier
         b_and_o_railroad: {
           mortage_value: 800
         },
-        shortline_railroad: {}
+        shortline_railroad: {
+          mortage_value: 200
+        }
       }
       
     }
